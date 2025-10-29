@@ -1,4 +1,4 @@
-# Movie Recommender — Interactive + Analysis
+# Movie Recommender - Interactive + Analysis
 
 Personalized and group movie recommendations using user-based collaborative filtering (Pearson kNN), plus dataset-wide analysis. Works with **MovieLens 1M** (`ratings.dat`, `movies.dat`) or **100K** (`u.data`, `u.item`). Falls back to a tiny synthetic dataset if files aren’t found.
 
