@@ -7,7 +7,7 @@ Personalized and group movie recommendations using user-based collaborative filt
 - **Analysis**: EDA, sparsity, user/item distributions, CF **RMSE/MAE** (per-user test split), neighbor similarity stats, catalog & genre coverage of Top-N.
 
 ## Data
-Downloaded from https://grouplens.org/datasets/movielens/
+Downloaded from https://grouplens.org/datasets/movielens/.
 Place MovieLens files under `./data/`:
 - **1M**: `ratings.dat`, `movies.dat` (double-colon `::` separated).
 - **100K**: `u.data`, `u.item`.
