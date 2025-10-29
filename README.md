@@ -11,6 +11,12 @@ Place MovieLens files under `./data/`:
 - **1M**: `ratings.dat`, `movies.dat` (double-colon `::` separated).
 - **100K**: `u.data`, `u.item`.
 
+## Follow prompts:
+
+- Enter a user id from your dataset (e.g., 348).
+- Optionally enter group ids (e.g., 234,456,745) to run sequential rounds.
+- Results also save to ./outputs/.
+
 ## Quickstart
 ```bash
 pip install -r requirements.txt
